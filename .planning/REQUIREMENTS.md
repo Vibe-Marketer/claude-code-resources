@@ -33,7 +33,7 @@ Requirements for initial release. Each maps to roadmap phases.
 - [ ] **SRC-03**: User can paste web URL/article to extract content
 - [ ] **SRC-04**: User can upload call transcripts (batch)
 - [ ] **SRC-05**: User can paste competitor carousel URL to remix
-- [ ] **SRC-06**: User can adjust remix intensity (inspired by → direct adaptation)
+- [ ] **SRC-06**: User can adjust remix intensity (inspired by -> direct adaptation)
 
 ### AI Generation
 
@@ -90,8 +90,8 @@ Explicitly excluded. Documented to prevent scope creep.
 
 | Feature | Reason |
 |---------|--------|
-| Generic graphic design | Canva territory — not our market |
-| Full social media management | Buffer/Hootsuite territory — different product |
+| Generic graphic design | Canva territory - not our market |
+| Full social media management | Buffer/Hootsuite territory - different product |
 | Video/Reels generation | Complexity explosion, carousels only for v1 |
 | Real-time collaborative editing | Solo creators are primary target |
 | Template marketplace | Two-sided marketplace is different business |
@@ -101,51 +101,51 @@ Explicitly excluded. Documented to prevent scope creep.
 
 Which phases cover which requirements. Updated during roadmap creation.
 
-| Requirement | Phase | Status |
-|-------------|-------|--------|
-| FOUND-01 | Phase 1 | Pending |
-| FOUND-02 | Phase 1 | Pending |
-| FOUND-03 | Phase 1 | Pending |
-| FOUND-04 | Phase 1 | Pending |
-| FOUND-05 | Phase 1 | Pending |
-| FOUND-06 | Phase 1 | Pending |
-| EDIT-01 | Phase 2 | Pending |
-| EDIT-02 | Phase 2 | Pending |
-| EDIT-03 | Phase 2 | Pending |
-| EDIT-04 | Phase 2 | Pending |
-| EDIT-05 | Phase 2 | Pending |
-| EDIT-06 | Phase 2 | Pending |
-| EDIT-07 | Phase 2 | Pending |
-| SRC-01 | Phase 3 | Pending |
-| SRC-02 | Phase 3 | Pending |
-| SRC-03 | Phase 3 | Pending |
-| SRC-04 | Phase 3 | Pending |
-| SRC-05 | Phase 3 | Pending |
-| SRC-06 | Phase 3 | Pending |
-| GEN-01 | Phase 4 | Pending |
-| GEN-02 | Phase 4 | Pending |
-| GEN-03 | Phase 4 | Pending |
-| GEN-04 | Phase 4 | Pending |
-| GEN-05 | Phase 4 | Pending |
-| GEN-06 | Phase 4 | Pending |
-| OUT-01 | Phase 5 | Pending |
-| OUT-02 | Phase 5 | Pending |
-| OUT-03 | Phase 5 | Pending |
-| OUT-04 | Phase 5 | Pending |
-| OUT-05 | Phase 5 | Pending |
-| OUT-06 | Phase 5 | Pending |
-| OUT-07 | Phase 5 | Pending |
-| OUT-08 | Phase 5 | Pending |
-| PAY-01 | Phase 6 | Pending |
-| PAY-02 | Phase 6 | Pending |
-| PAY-03 | Phase 6 | Pending |
-| PAY-04 | Phase 6 | Pending |
+| Requirement | Phase | Phase Name | Status |
+|-------------|-------|------------|--------|
+| FOUND-01 | Phase 1 | Foundation | Pending |
+| FOUND-02 | Phase 1 | Foundation | Pending |
+| FOUND-03 | Phase 1 | Foundation | Pending |
+| FOUND-04 | Phase 1 | Foundation | Pending |
+| FOUND-05 | Phase 1 | Foundation | Pending |
+| FOUND-06 | Phase 1 | Foundation | Pending |
+| EDIT-01 | Phase 2 | Manual Carousel Editor | Pending |
+| EDIT-02 | Phase 2 | Manual Carousel Editor | Pending |
+| EDIT-03 | Phase 2 | Manual Carousel Editor | Pending |
+| EDIT-04 | Phase 2 | Manual Carousel Editor | Pending |
+| EDIT-05 | Phase 2 | Manual Carousel Editor | Pending |
+| EDIT-06 | Phase 2 | Manual Carousel Editor | Pending |
+| EDIT-07 | Phase 2 | Manual Carousel Editor | Pending |
+| SRC-01 | Phase 3 | Content Extraction Pipeline | Pending |
+| SRC-02 | Phase 3 | Content Extraction Pipeline | Pending |
+| SRC-03 | Phase 3 | Content Extraction Pipeline | Pending |
+| SRC-04 | Phase 3 | Content Extraction Pipeline | Pending |
+| SRC-05 | Phase 3 | Content Extraction Pipeline | Pending |
+| SRC-06 | Phase 3 | Content Extraction Pipeline | Pending |
+| GEN-01 | Phase 4 | AI Text Generation | Pending |
+| GEN-02 | Phase 4 | AI Text Generation | Pending |
+| GEN-03 | Phase 4 | AI Text Generation | Pending |
+| GEN-04 | Phase 4 | AI Text Generation | Pending |
+| GEN-05 | Phase 4 | AI Text Generation | Pending |
+| GEN-06 | Phase 4 | AI Text Generation | Pending |
+| OUT-01 | Phase 5 | Output & Publishing | Pending |
+| OUT-02 | Phase 5 | Output & Publishing | Pending |
+| OUT-03 | Phase 5 | Output & Publishing | Pending |
+| OUT-04 | Phase 5 | Output & Publishing | Pending |
+| OUT-05 | Phase 5 | Output & Publishing | Pending |
+| OUT-06 | Phase 5 | Output & Publishing | Pending |
+| OUT-07 | Phase 5 | Output & Publishing | Pending |
+| OUT-08 | Phase 5 | Output & Publishing | Pending |
+| PAY-01 | Phase 6 | Monetization & Polish | Pending |
+| PAY-02 | Phase 6 | Monetization & Polish | Pending |
+| PAY-03 | Phase 6 | Monetization & Polish | Pending |
+| PAY-04 | Phase 6 | Monetization & Polish | Pending |
 
 **Coverage:**
 - v1 requirements: 28 total
 - Mapped to phases: 28
-- Unmapped: 0 ✓
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-01-19*
-*Last updated: 2026-01-19 after initial definition*
+*Last updated: 2026-01-20 after roadmap creation*
